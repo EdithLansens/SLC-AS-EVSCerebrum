@@ -2,18 +2,18 @@
 
 ## Overview
 
-Unlock the full potential of your operations with the powerful integration of EVS Cerebrum and DataMiner. DataMiner establishes connectivity, setting crosspoints between pre-reserved resources, ideal for streamlining tasks like pre-configuring feeds for fiber contribution jobs in the MCR. Crosspoint commands are sent to Cerebrum for this purpose. Designed to simplify your workflow, the EVS Cerebrum application offers a **user-friendly** and **intuitive** interface that makes setting crosspoints quicker and more efficient than ever before.
+Unlock the full potential of your operations with the powerful integration of EVS Cerebrum and DataMiner. DataMiner establishes connectivity, setting crosspoints between pre-reserved resources, ideal for streamlining tasks like pre-configuring feeds for fiber contribution jobs in the MCR. Crosspoint commands are sent to Cerebrum for this purpose. Designed to simplify your workflow, the EVS Cerebrum application offers an **user-friendly** and **intuitive** interface that makes setting crosspoints quicker and more efficient than ever before.
 
 ![Overview](./Documentation/Images/Overview_EVS_Cerebrum.png)
 
 ## Key Features
 
-- **Overview**: Visualization of all existing mnemonics, levels, and categories.
+- **Overview**: Visualization of all existing mnemonics, levels and categories.
 - **Router Control Panel**: With just a few clicks, a route connection can be established through a user-friendly interface.
 
 ## Using the application
 
-The primary use of the application is to set up a route connection.
+The primary use of the application is to setup a route connection.
 
 - To do this:
 
@@ -23,7 +23,7 @@ The primary use of the application is to set up a route connection.
 
      Once the route is established, the connected source will be visible on the designated destination and level(s).
 
-- To set up routes for all levels simultaneously, click the *All Level Take* button.
+- To set up routes for all levels simultaneously, click the *All level Take* button.
 
 ![Example Usage](./Documentation/Images/Connect.gif)
 
@@ -36,11 +36,11 @@ To deploy this item from the Catalog, you will need:
 
 - DataMiner version 10.4.4 or higher.
 
-- A DataMiner System [connected to dataminer.services](https://docs.dataminer.services/user-guide/Cloud_Platform/Connecting_to_cloud/Connecting_your_DataMiner_System_to_the_cloud.html).
+- A Dataminer System [connected to dataminer.services](https://docs.dataminer.services/user-guide/Cloud_Platform/Connecting_to_cloud/Connecting_your_DataMiner_System_to_the_cloud.html)
 
 ## Installation and configuration
 
-### Step 1: Deploy the EVS Cerebrum application
+### Step 1: Deploy the EVS Cerebrum Application
 
 1. Click the *Deploy* button.
 
@@ -48,7 +48,7 @@ To deploy this item from the Catalog, you will need:
 
 1. Optionally verify that the deployment was successful in [the Admin app](https://admin.dataminer.services/), where you can check the status of the deployment.
 
-### Step 2: Access the EVS Cerebrum application
+### Step 2: Access the EVS Cerebrum Application
 
 1. Go to `http(s)://[DMA name]/root`.
 
